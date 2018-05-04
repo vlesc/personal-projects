@@ -1,0 +1,32 @@
+Functional:
+----------
+
+1- Display Graph of daily stock trend
+  - can select day/week/month/3mo/1y/5y trend
+      - resolution?
+	  - daily: up to the minute data points?
+	  - weekly: where is the start of the week?
+	  - month
+	  - 3mo
+	  - 1y
+	  - 5y
+  - get data points:
+    -   
+  - realtime or stored:
+    - delay from data provider
+  - scaling
+  
+  
+-------------------------------------------------
+Data model:
+-----------
+ - Company
+   - Business Name
+   - Business Description
+   - Stock Ticker Symbol
+   - Company url
+   - 
+ - Market Data
+ - 
+ 
+sfb-isocmserrorcodes.csv
